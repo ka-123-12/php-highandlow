@@ -37,5 +37,5 @@ git clone https://github.com/ka-123-12/php-highandlow
 
 
 ## スクリーンショット
-[ゲーム画面①](ハイアンドロー_php1.jpeg)
-[ゲーム画面②](ハイアンドロー_php2.jpeg)
+[ゲーム画面①](ハイアンドロー_php2.jpeg)
+[ゲーム画面②](ハイアンドロー_php1.jpeg)
