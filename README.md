@@ -33,3 +33,9 @@ PHP7以上とブラウザで動作します。
 git clone https://github.com/ka-123-12/php-highandlow
 2. ローカルサーバーで起動（XAMPPなど）
 3. ブラウザで `index.php` を開く
+
+
+
+## スクリーンショット
+[ゲーム画面①](ハイアンドロー_php1.png)
+[ゲーム画面②](ハイアンドロー_php2.png)
